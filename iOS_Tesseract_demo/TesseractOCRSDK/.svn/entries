@@ -1,0 +1,34 @@
+10
+
+dir
+44218
+svn://huangyb@192.168.101.125:6060/kk5.0_source/trunk/iOS/trunk/libs/TesseractOCRSDK
+svn://huangyb@192.168.101.125:6060/kk5.0_source
+
+
+
+2018-07-26T03:27:00.610768Z
+41763
+huangyb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b5f7b635-0875-4a45-91da-ab90f57668c0
+
+tessdata
+dir
+
+TesseractOCR.framework
+dir
+
